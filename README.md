@@ -17,9 +17,9 @@ Provides auto-registration, type safety, and a more structured approach to Enums
 You can install `ts-enum` via npm or yarn:
 
 ```sh
-npm install @zc/tts-enum
+npm install @zerochae/tts-enum
 # or
-yarn add @zc/ts-enum
+yarn add @zerochae/ts-enum
 ```
 
 ---
