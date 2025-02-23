@@ -1,5 +1,5 @@
 {
-  "name": "ts-enum",
+  "name": "@zc/ts-enum",
   "version": "1.0.0",
   "description": "A TypeScript Enum library inspired by Java's Enum.",
   "main": "dist/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/ts-enum.git"
+    "url": "https://github.com/zerochae/ts-enum.git"
   },
   "keywords": [
     "typescript",
@@ -21,7 +21,7 @@
     "typescript-enum",
     "strict-enum"
   ],
-  "author": "Your Name",
+  "author": "zerochae",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.2.2",
